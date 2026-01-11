@@ -1,7 +1,6 @@
-
+## Instal numpy, pandas, pip (update)
 ## Skeleton `generate_synthetic_data.py`
 
-```python
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
